@@ -1,7 +1,10 @@
 _repo: Neurosyphilis-Modern-Systematic-Diagnosis-and-Treatment-Presented-in-One-Hundred-and-Thirty-S__63313
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: "Neurosyphilis\r\nModern Systematic Diagnosis and Treatment Presented\
   \ in 137 Case Histories"
+covers:
+- cover_type: archival
+  image_path: 63313-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Solomon, Harry C. (Harry Caesar)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46678
     wikipedia: https://en.wikipedia.org/wiki/Elmer_Ernest_Southard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63313#Neurosyphilis-Modern-Systematic-Diagnosis-and-Treatment-Presented-in-One-Hundred-and-Thirty-S_
 gutenberg_issued: '2020-09-27'
 gutenberg_type: Text
 identifiers:
