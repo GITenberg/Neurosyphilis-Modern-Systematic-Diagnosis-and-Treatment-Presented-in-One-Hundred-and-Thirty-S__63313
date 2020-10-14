@@ -1,0 +1,41 @@
+_repo: Neurosyphilis-Modern-Systematic-Diagnosis-and-Treatment-Presented-in-One-Hundred-and-Thirty-S__63313
+_version: 0.0.1
+alternative_title: "Neurosyphilis\r\nModern Systematic Diagnosis and Treatment Presented\
+  \ in 137 Case Histories"
+creator:
+  authors:
+  - agent_name: Solomon, Harry C. (Harry Caesar)
+    aliases:
+    - Solomon, Harry Ceasar
+    - Solomon, Harry Caesar
+    birthdate: 1889
+    deathdate: 1982
+    gutenberg_agent_id: '52374'
+    url: http://www.gutenberg.org/2009/agents/52374
+  - agent_name: Southard, Elmer Ernest
+    aliases:
+    - Southard, E. E. (Elmer Ernest)
+    - Southard, Elmer E. (Elmer Ernest)
+    birthdate: 1876
+    deathdate: 1920
+    gutenberg_agent_id: '46678'
+    url: http://www.gutenberg.org/2009/agents/46678
+    wikipedia: https://en.wikipedia.org/wiki/Elmer_Ernest_Southard
+description: ''
+gutenberg_issued: '2020-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63313'
+  lccn: '18014740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The case history series.
+subjects:
+- !lcsh 'Neurosyphilis'
+- !lcc 'RC'
+- GITenberg
+title: "Neurosyphilis\r\nModern Systematic Diagnosis and Treatment Presented in One\
+  \ Hundred and Thirty-Seven Case Histories"
+url: http://www.gutenberg.org/ebooks/63313
